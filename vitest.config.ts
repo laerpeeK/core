@@ -1,3 +1,4 @@
+// Vitest 测试工具的基础配置文件
 import { configDefaults, defineConfig } from 'vitest/config'
 import { entries } from './scripts/aliases.js'
 import codspeedPlugin from '@codspeed/vitest-plugin'

@@ -1,3 +1,4 @@
+// 用于编译打包后的代码的 TypeScript 配置文件
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {

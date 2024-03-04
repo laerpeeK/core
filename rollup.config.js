@@ -1,3 +1,4 @@
+// Rollup 打包工具的配置文件
 // @ts-check
 import assert from 'node:assert/strict'
 import { createRequire } from 'node:module'

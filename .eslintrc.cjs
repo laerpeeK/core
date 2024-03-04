@@ -1,3 +1,4 @@
+// eslint代码风格检查工具的配置文件
 const { builtinModules } = require('node:module')
 const DOMGlobals = ['window', 'document']
 const NodeGlobals = ['module', 'require']

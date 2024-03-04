@@ -1,5 +1,8 @@
 import { initCustomFormatter } from '@vue/runtime-dom'
 
+/**
+ * 开发者模式初始化
+ */
 export function initDev() {
   if (__BROWSER__) {
     /* istanbul ignore if */

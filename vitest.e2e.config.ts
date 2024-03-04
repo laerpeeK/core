@@ -1,3 +1,4 @@
+// Vite 测试工具的端到端测试配置文件
 import { mergeConfig } from 'vitest/config'
 import config from './vitest.config'
 

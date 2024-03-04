@@ -1,3 +1,4 @@
+// Rollup 打包工具用于生成 TypeScript 类型声明文件的配置文件
 // @ts-check
 import assert from 'node:assert/strict'
 import { parse } from '@babel/parser'
